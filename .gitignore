@@ -1,0 +1,22 @@
+__pycache__/
+.env
+.venv/
+.DS_Store
+
+# datasets & outputs
+dataset/
+known_faces/
+results/
+output.txt
+console_output.txt
+
+# models
+models/
+*.h5
+*.pt
+*.pth
+
+#
+
+
+
